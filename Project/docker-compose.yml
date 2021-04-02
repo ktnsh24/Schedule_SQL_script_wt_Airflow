@@ -1,0 +1,42 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres:9.6
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+
+
+  webserver:
+    build: ./dockerfiles
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - LOAD_EX=y
+      - EXECUTOR=Local
+      - AIRFLOW__CORE__FERNET_KEY='KeFuR9dD5-bFpoYWy26d5Jqszl2cDkN2P-4FGGdVnfM='
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+    volumes:
+     
+      - ./dags:/usr/local/airflow/dags
+      #- ./scripts:/usr/local/airflow/scripts
+      #- /Users/ketansahu/Desktop/DataEngineering/DataScienceTeam/Airflow_tutorial:/scripts
+      # - ./plugins:/usr/local/airflow/plugins
+    ports:
+      - "8080:8080"
+    command: webserver
+    healthcheck:
+      test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+      interval: 30s
+      timeout: 30s
+      retries: 3
