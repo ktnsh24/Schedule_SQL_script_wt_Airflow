@@ -30,7 +30,7 @@ services:
      
       - ./dags:/usr/local/airflow/dags
       #- ./scripts:/usr/local/airflow/scripts
-      #- /Users/ketansahu/Desktop/DataEngineering/DataScienceTeam/Airflow_tutorial:/scripts
+      - /Users/ketansahu/Documents/DataEngineeringProject:/usr/local/airflow/dags
       # - ./plugins:/usr/local/airflow/plugins
     ports:
       - "8080:8080"

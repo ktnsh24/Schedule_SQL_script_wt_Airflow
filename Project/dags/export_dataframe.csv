@@ -1,0 +1,49 @@
+event_id,download_date,user_id,app,category,rating,reviews,app_size,installs,app_type,price,content_rating,genres,last_updated,current_version,android_version,app_id,user_name,user_age,user_location,time_spent_min
+13,2021-04-05,401,How To Draw Food,ART_AND_DESIGN,4.3,845,7.9M,"100,000+",Free,0,Everyone,Art & Design,"May 28, 2018",1.0,2.3 and up,5762,Judy Ho,55,Virginia,208
+14,2021-04-05,861,How To Color Disney Princess - Coloring Pages,ART_AND_DESIGN,4.0,591,9.4M,"500,000+",Free,0,Everyone,Art & Design,"March 31, 2018",1,4.0 and up,5761,Heather Mccall,41,Connecticut,398
+15,2021-04-05,928,Drawing Clothes Fashion Ideas,ART_AND_DESIGN,4.2,117,15M,"10,000+",Free,0,Everyone,Art & Design,"July 20, 2018",2.0.1,4.0.3 and up,3955,Jessica Fox,36,Nevada,356
+16,2021-04-05,116,Textgram - write on photos,ART_AND_DESIGN,4.4,295221,Varies with device,"10,000,000+",Free,0,Everyone,Art & Design,"July 30, 2018",Varies with device,Varies with device,8834,Amy Boyle,57,New Jersey,134
+17,2021-04-05,366,Paint Splash!,ART_AND_DESIGN,3.8,2206,1.2M,"100,000+",Free,0,Everyone,Art & Design;Creativity,"April 15, 2018",1.46,4.1 and up,7371,Dr. Christine James,62,Rhode Island,299
+18,2021-04-05,98,Popsicle Sticks and Similar DIY Craft Ideas,ART_AND_DESIGN,4.2,26,12M,"10,000+",Free,0,Everyone,Art & Design,"January 3, 2018",1.0.0,4.1 and up,7602,Adrienne Smith,49,Arizona,134
+19,2021-04-05,189,"Canva: Poster, banner, card maker & graphic design",ART_AND_DESIGN,4.7,174531,24M,"10,000,000+",Free,0,Everyone,Art & Design,"July 31, 2018",1.6.1,4.1 and up,2872,Ms. Anne Barnes,22,Kentucky,321
+20,2021-04-05,854,Install images with music to make video without Net - 2018,ART_AND_DESIGN,4.6,1070,26M,"100,000+",Free,0,Everyone,Art & Design,"November 14, 2017",1.6,4.1 and up,5900,Seth Parks,27,Massachusetts,368
+21,2021-04-05,435,Little Teddy Bear Colouring Book Game,ART_AND_DESIGN,4.2,85,8.0M,"100,000+",Free,0,Everyone,Art & Design,"December 17, 2017",2.0.0,4.1 and up,6343,Gary Franklin,28,Missouri,352
+22,2021-04-05,117,Monster Truck Stunt 3D 2019,AUTO_AND_VEHICLES,4.2,367,25M,"100,000+",Free,0,Everyone,Auto & Vehicles,"May 10, 2018",1.0,4.0.3 and up,6797,Jennifer Williamson,21,Nevada,196
+23,2021-04-05,940,Gas Prices (Germany only),AUTO_AND_VEHICLES,4.4,805,5.6M,"50,000+",Free,0,Everyone,Auto & Vehicles,"July 29, 2018",2.5.1,4.4 and up,5311,Scott Garcia Jr.,48,Maryland,381
+24,2021-04-05,912,Ultimate F1 Racing Championship,AUTO_AND_VEHICLES,3.8,284,57M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up,9214,Timothy Roman,62,New York,115
+25,2021-04-05,442,Used Cars and Trucks for Sale,AUTO_AND_VEHICLES,4.6,17057,Varies with device,"1,000,000+",Free,0,Everyone,Auto & Vehicles,"July 30, 2018",Varies with device,Varies with device,9257,John Smith,37,Colorado,169
+26,2021-04-05,465,American Muscle Car Race,AUTO_AND_VEHICLES,3.9,129,35M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up,1195,Adam Martinez,47,Indiana,98
+27,2021-04-05,774,Offroad Oil Tanker Driver Transport Truck 2019,AUTO_AND_VEHICLES,4.3,542,33M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 31, 2018",4.0,4.1 and up,7219,David Brown,43,Rhode Island,245
+28,2021-04-05,296,Tickets SDA 2018 and Exam from the State Traffic Safety Inspectorate with Drom.ru,AUTO_AND_VEHICLES,4.9,10479,33M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 18, 2018",1.7.1,4.0 and up,8970,Joshua Johnson,24,Texas,154
+29,2021-04-05,606,PIP Camera - PIP Collage Maker,ART_AND_DESIGN,4.7,158,11M,"10,000+",Free,0,Everyone,Art & Design,"November 29, 2017",1.3,4.0.3 and up,7333,Antonio Hill,52,Wyoming,342
+30,2021-04-05,431,Extreme Rally Championship,AUTO_AND_VEHICLES,4.2,129,54M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up,4571,April Jordan,35,Nevada,264
+31,2021-04-05,447,Restart Navigator,AUTO_AND_VEHICLES,4.0,1403,201k,"100,000+",Free,0,Everyone,Auto & Vehicles,"August 26, 2014",1.0.1,2.2 and up,7940,Thomas Shepherd,40,North Dakota,349
+32,2021-04-05,373,"REG - Check the regnumber, find information about Swedish vehicles",AUTO_AND_VEHICLES,3.9,3971,3.6M,"100,000+",Free,0,Everyone,Auto & Vehicles,"July 30, 2018",2.493,4.4 and up,7790,Jessica Mercado,36,North Carolina,140
+33,2021-04-05,413,CityBus Lviv,AUTO_AND_VEHICLES,4.6,534,5.7M,"10,000+",Free,0,Everyone,Auto & Vehicles,"July 8, 2018",1.9.1,4.0.3 and up,3052,Robert Williams,46,Ohio,90
+34,2021-04-05,677,Real Tractor Farming,AUTO_AND_VEHICLES,4.0,1598,56M,"1,000,000+",Free,0,Everyone,Auto & Vehicles,"July 26, 2018",11.0,4.1 and up,7880,Katelyn Rodriguez,22,Texas,123
+35,2021-04-05,219,Floor Plan Creator,ART_AND_DESIGN,4.1,36639,Varies with device,"5,000,000+",Free,0,Everyone,Art & Design,"July 14, 2018",Varies with device,2.3.3 and up,5032,James Bowen,18,Rhode Island,175
+36,2021-04-05,955,Sad Poetry Photo Frames 2018,ART_AND_DESIGN,4.5,176,10M,"100,000+",Free,0,Everyone,Art & Design,"April 2, 2018",1.0,4.0.3 and up,8121,Kristi Peters,21,Oklahoma,178
+37,2021-04-05,57,How to draw Ladybug and Cat Noir,ART_AND_DESIGN,3.8,564,9.2M,"100,000+",Free,0,Everyone,Art & Design,"July 11, 2018",2.1,4.1 and up,5769,Kimberly Castillo,40,New Jersey,256
+38,2021-04-05,370,UNICORN - Color By Number & Pixel Art Coloring,ART_AND_DESIGN,4.7,8145,24M,"500,000+",Free,0,Everyone,Art & Design;Creativity,"August 2, 2018",1.0.9,4.4 and up,9178,Natasha Lin,59,Massachusetts,166
+39,2021-04-05,300,3D Color Pixel by Number - Sandbox Art Coloring,ART_AND_DESIGN,4.4,1518,37M,"100,000+",Free,0,Everyone,Art & Design,"August 3, 2018",1.2.3,2.3 and up,560,Dr. Jason Wright,61,Georgia,225
+40,2021-04-05,196,Learn To Draw Kawaii Characters,ART_AND_DESIGN,3.2,55,2.7M,"5,000+",Free,0,Everyone,Art & Design,"June 6, 2018",,4.2 and up,6268,Erin Cox,40,Oklahoma,144
+41,2021-04-05,685,Photo Designer - Write your name with shapes,ART_AND_DESIGN,4.7,3632,5.5M,"500,000+",Free,0,Everyone,Art & Design,"July 31, 2018",3.1,4.1 and up,7460,Lauren Mitchell,61,Oklahoma,261
+42,2021-04-05,889,350 Diy Room Decor Ideas,ART_AND_DESIGN,4.5,27,17M,"10,000+",Free,0,Everyone,Art & Design,"November 7, 2017",1.0,2.3 and up,554,Wanda Russell,48,Kentucky,394
+43,2021-04-05,598,FlipaClip - Cartoon animation,ART_AND_DESIGN,4.3,194216,39M,"5,000,000+",Free,0,Everyone,Art & Design,"August 3, 2018",2.2.5,4.0.3 and up,5023,Michael Kelley,28,Missouri,233
+44,2021-04-05,686,ibis Paint X,ART_AND_DESIGN,4.6,224399,31M,"10,000,000+",Free,0,Everyone,Art & Design,"July 30, 2018",5.5.4,4.1 and up,10004,Dennis Williams,36,North Carolina,339
+45,2021-04-05,154,Logo Maker - Small Business,ART_AND_DESIGN,4.0,450,14M,"100,000+",Free,0,Everyone,Art & Design,"April 20, 2018",4.0,4.1 and up,6372,Dr. Stephanie Hill,45,Maryland,99
+46,2021-04-05,556,Boys Photo Editor - Six Pack & Men's Suit,ART_AND_DESIGN,4.1,654,12M,"100,000+",Free,0,Everyone,Art & Design,"March 20, 2018",1.1,4.0.3 and up,2248,Amber Dominguez,50,Nevada,131
+47,2021-04-05,402,Superheroes Wallpapers | 4K Backgrounds,ART_AND_DESIGN,4.7,7699,4.2M,"500,000+",Free,0,Everyone 10+,Art & Design,"July 12, 2018",2.2.6.2,4.0.3 and up,8631,John Ayala,32,Montana,322
+48,2021-04-05,135,Mcqueen Coloring pages,ART_AND_DESIGN,4.3,61,7.0M,"100,000+",Free,0,Everyone,Art & Design;Action & Adventure,"March 7, 2018",1.0.0,4.1 and up,6602,Christopher Riddle,61,Connecticut,251
+49,2021-04-05,336,Mandala Coloring Book,ART_AND_DESIGN,4.6,4326,21M,"100,000+",Free,0,Everyone,Art & Design,"June 26, 2018",1.0.4,4.4 and up,6525,Barry Boyd,47,Georgia,386
+50,2021-04-05,636,Harley Quinn wallpapers HD,ART_AND_DESIGN,4.8,192,6.0M,"10,000+",Free,0,Everyone,Art & Design,"April 25, 2018",1.5,3.0 and up,5626,Nicole Cohen,21,Indiana,147
+51,2021-04-05,449,HD Mickey Minnie Wallpapers,ART_AND_DESIGN,4.7,118,23M,"50,000+",Free,0,Everyone,Art & Design,"July 7, 2018",1.1.3,4.1 and up,5538,Susan Norton,31,Mississippi,170
+52,2021-04-05,311,Easy Origami Ideas,ART_AND_DESIGN,4.2,1015,11M,"100,000+",Free,0,Everyone,Art & Design,"January 6, 2018",1.1.0,4.1 and up,4360,Brenda Griffin,24,Illinois,95
+53,2021-04-05,885,Anime Manga Coloring Book,ART_AND_DESIGN,4.5,5035,11M,"100,000+",Free,0,Everyone,Art & Design,"July 19, 2018",2.20,4.0 and up,1249,John Wright,61,California,233
+54,2021-04-05,148,Art Drawing Ideas,ART_AND_DESIGN,4.1,227,5.2M,"50,000+",Free,0,Everyone,Art & Design,"May 31, 2018",1.2,2.3 and up,1321,Stephanie Brown,57,Alaska,374
+55,2021-04-05,893,I Creative Idea,ART_AND_DESIGN,4.7,353,4.2M,"10,000+",Free,0,Teen,Art & Design,"April 27, 2018",1.6,4.1 and up,5806,Kevin Montgomery MD,53,Virginia,347
+56,2021-04-05,320,Easy Realistic Drawing Tutorial,ART_AND_DESIGN,4.1,223,4.2M,"100,000+",Free,0,Everyone,Art & Design,"August 22, 2017",1.0,2.3 and up,4361,Rita Curry,57,Oregon,122
+57,2021-04-05,393,Pencil Sketch Drawing,ART_AND_DESIGN,3.9,136,4.6M,"10,000+",Free,0,Everyone,Art & Design,"July 12, 2018",6.0,2.3 and up,7416,David Henry,52,South Carolina,319
+58,2021-04-05,761,Animated Photo Editor,ART_AND_DESIGN,4.1,203,6.1M,"100,000+",Free,0,Everyone,Art & Design,"March 21, 2018",1.03,4.0.3 and up,1245,Cathy Yang,40,Connecticut,303
+59,2021-04-05,719,Colorfit - Drawing & Coloring,ART_AND_DESIGN,4.7,20260,25M,"500,000+",Free,0,Everyone,Art & Design;Creativity,"October 11, 2017",1.0.8,4.0.3 and up,3126,Danielle Wagner,62,Michigan,227
+60,2021-04-05,636,Pink Silver Bow Keyboard Theme,ART_AND_DESIGN,4.2,1120,9.2M,"100,000+",Free,0,Everyone,Art & Design,"July 12, 2018",6.7.12.2018,4.0.3 and up,7507,Nicole Cohen,21,Indiana,276
